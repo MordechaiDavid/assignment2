@@ -4,7 +4,6 @@
 #include "MyCar.h"
 using namespace std;
 int main() {
-    cout<<endl;
     ManageCars manageCars;
     while (true) {
         cout << "---Welcome to second-hand car system---" << endl;
